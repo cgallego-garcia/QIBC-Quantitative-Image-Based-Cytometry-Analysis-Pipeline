@@ -42,7 +42,13 @@ The macro automatically creates a subfolder named `Resultados` inside your input
 * `*_Classification_Map.tiff`: A flat image with the ROIs overlaid and color-coded according to their classification (Green: Double+, Red: Double-, Blue: EdU+, Orange: H2Ax+).
 * `*_MAX_projection.tiff`: (Only generated if the input was a Z-stack).
 
-## 🖋️ Authors
+## 📝 How to Cite
+
+If you use this pipeline in your research, please cite the associated paper:
+
+> **Sara Martín-Vírgala, Joana Segura, Alicia Gallego, Ran Tong, Sara Tur-Gracia, Jesús Rafael Rodriguez-Aguilera, Biswajit Das, Javier Isoler-Alcaraz, Carlos Gallego-García, Shraddha Shinde, Magdalena M. Maslon, Andrei Chabes, Lothar Schermelleh, and María Gómez** (2026). Slow RNAPII elongation enhances naive pluripotency rewiring while maintaining high replication fork speed. *Science Advances*. DOI: [10.1126/sciadv.adz6211](https://doi.org/10.1126/sciadv.adz6211)
+
+## Authors
 * **Carlos Gallego-Garcia** 
 _Faculty of Experimental Sciences, Universidad Francisco de Vitoria, Madrid, Spain._
 _Advanced Light Microscopy Facility (SMOA), Centro de Biología Molecular Severo Ochoa (CBM)._
