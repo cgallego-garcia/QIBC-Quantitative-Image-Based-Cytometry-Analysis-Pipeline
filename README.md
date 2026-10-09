@@ -1,6 +1,3 @@
-# QIBC-Quantitative-Image-Based-Cytometry-Analysis-Pipeline
-Automated ImageJ/Fiji pipeline for Quantitative Image-Based Cytometry (QIBC). It segments nuclei using Cellpose and classifies cell populations (EdU/H2Ax) across single-plane images and Z-stacks.
-
 # QIBC Analysis Pipeline for ImageJ/Fiji
 
 [![DOI](https://img.shields.io/badge/DOI-10.1126%2Fsciadv.adz6211-blue.svg)](https://doi.org/10.1126/sciadv.adz6211) Sara Martín-Vírgala et al. ,Slow RNAPII elongation enhances naive pluripotency rewiring while maintaining high replication fork speed.Sci. Adv.12,eadz6211(2026).
